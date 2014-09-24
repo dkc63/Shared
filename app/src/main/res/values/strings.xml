@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SharePrefs</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="hello">Hello</string>
+
+    <string name="saveMem1">Save Memory</string>
+    <string name="enterName">Enter Name</string>
+    <string name="enterAge">Enter Age</string>
+    <string name="namePrompt">Enter Name</string>
+    <string name="agePrompt">Enter age</string>
+
+</resources>
